@@ -46,5 +46,6 @@ SimpleTorchLight	Updated and works.
 SlidingDrawer-Topdown	Doesn't quite compile: Eclipse R gen can't find panel: attrs?
 Speaker		Works
 SplashDialog	Works
+SplashScreen	Works
 TelephonyManager	Works
 Tipster		Works
